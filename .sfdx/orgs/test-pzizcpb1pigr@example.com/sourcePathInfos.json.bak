@@ -1,0 +1,114 @@
+[
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538253295683,
+            "changeTime": 1538253295683,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538253295683,
+            "changeTime": 1538253295683,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538253884249,
+            "changeTime": 1538253884249,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3"
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538253295684,
+            "changeTime": 1538253295684,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538253362971,
+            "changeTime": 1538253362971,
+            "contentHash": "829e604d4e7d5aae25f04d899b0bc5eccc598817",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app\\main\\default\\classes\\AccountNew.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app\\main\\default\\classes\\AccountNew.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1538253884253,
+            "changeTime": 1538253884253,
+            "contentHash": "0bfc8bc49e53c8f0f6b207cf675766c0d6546ee5"
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app\\main\\default\\classes\\AccountNew.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app\\main\\default\\classes\\AccountNew.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 27,
+            "modifiedTime": 1538253884263,
+            "changeTime": 1538253884263,
+            "contentHash": "8cd6e40c37113475b6436f3092ba4548702c722b"
+        }
+    ],
+    [
+        "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app\\main\\default\\classes",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\eswararao.sobila\\Eswar\\Salesforce\\ProductionBackUp\\Salesforce Full Backups\\branch\\Test\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1538253884262,
+            "changeTime": 1538253884262,
+            "contentHash": "e64eba021aeeb84684733ec25457021b80f5912c"
+        }
+    ]
+]
